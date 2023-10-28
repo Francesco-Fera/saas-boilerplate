@@ -17,7 +17,7 @@ To get started with this SaaS boilerplate, follow these steps:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/nextjs-saas-boilerplate.git
+git clone https://github.com/francesco-fera/nextjs-saas-boilerplate.git
 ```
 
 2. **Install Dependencies**
